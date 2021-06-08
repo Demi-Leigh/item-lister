@@ -1,0 +1,44 @@
+.row {
+  display: flex;
+  justify-content: space-around;
+  background-color: forestgreen;
+}
+
+#filter {
+  margin-top: 15%;
+  height: 30%;
+  width: 150%;
+}
+
+#header-title {
+  font-size: 40px;
+  color: white;
+}
+
+.container2 {
+  display: flex;
+  border: 1px solid lightgray;
+  margin: 30px 30px 0px 30px;
+}
+
+.title2 {
+  margin-left: 40px;
+  font-size: 40px;
+}
+
+#addForm {
+  margin-left: 40px;
+}
+
+#item {
+  height: 20px;
+  width: 200px;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid lightgray;
+  padding: 10px;
+  width: 200%;
+}
